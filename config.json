@@ -1,0 +1,7 @@
+{
+  "hello": "world",
+  "hey": {
+    "sample": "value",
+    "array": [1, 2, 3]
+  }
+}
